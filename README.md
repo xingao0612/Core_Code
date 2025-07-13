@@ -10,10 +10,3 @@ This repository implements an XGBoost-based aging prediction model using immune 
 - R >= 4.0
 - Packages: `tidymodels`, `xgboost`, `iml`, `fastshap`, etc.
 
-## Code Structure
-```r
-# Key Steps:
-1. Data Loading & Preprocessing
-2. XGBoost Model Training with Hyperparameter Tuning
-3. Model Evaluation & Prediction
-4. Feature Importance & SHAP Analysis
