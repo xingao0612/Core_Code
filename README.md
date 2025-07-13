@@ -59,11 +59,8 @@ install.packages("your_missing_package")
 3. Outputs will be saved as `.pdf` (plots) and `.csv` (results).
 
 ## 🧾 Citation
-
-If you use this code, please cite our paper:
-
-> *An aging clock based on immune repertoire features: COVID-19 accelerates aging*. [Journal Info]
+NA.
 
 ---
 
-**Contact**: [Author Name] – [Institution] – [Email or GitHub]
+**Contact**: Xin Gao  – gaoxin_0612@163.com
